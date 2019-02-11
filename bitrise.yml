@@ -1,6 +1,5 @@
 format_version: 5
-default_step_lib_source: https://github.com/bitrise-io/bitrise-steplib.git
-
+default_step_lib_source: https://github.com/knowink-dev/steps-amazon-s3-upload
 app:
   envs:
   # define these in your .bitrise.secrets.yml
